@@ -4,8 +4,13 @@ This is a demo of maintaining counts of IP hits and a top 100 list of the IPs wi
 
 ### How to Run
 
+````
 $ go build
+# macOS or Linux:
 $ ./ip-counter
+# Windows:
+$ .\ip-counter.exe
+````
 
 ### Data Structures
 
